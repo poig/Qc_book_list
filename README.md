@@ -36,3 +36,5 @@ if any resources link having Copyright / License / Issues please post new issue
 ### If you want to see what research is currently hot, you can take a look 
 - [**QIP workshops**](https://qipconference.org/)  
 - [**check the most cited papers**](https://scirate.com/)
+- [**Qiskit Seminar**](https://qiskit.org/events/seminar-series/)
+- [**Qutech seminar**](https://qutech.nl/newsroom/events/)
