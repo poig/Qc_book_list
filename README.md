@@ -7,6 +7,9 @@ if any resources link having Copyright / License / Issues please post new issue
 2. **welcome open a new issue for books suggestion and why, no duplicate topic**  
 3. **I only recommend those really standsout books, you can read with the order** 
 
+### new to cs and qc(all-in-one):
+- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
+
 ### new to quantum computing:
 - [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong
 - **Quantum Computing: An Applied Approach** by Hidary, Jack D.
