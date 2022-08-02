@@ -32,3 +32,6 @@ if any resources link having Copyright / License / Issues please post new issue
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188.pdf) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen and Andreas Winter
 - [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/abs/1410.7188) by Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder
+
+If you want to see what research is currently hot, you can take a look [**QIP workshops**](https://qipconference.org/)
+[**check the most cited papers**](https://scirate.com/)
