@@ -5,7 +5,9 @@ if any resources link having Copyright / License / Issues please post new issue
 #### few points to address:
 1. **please support author, those pdf link can be easily found by google name only**  
 2. **welcome open a new issue for books suggestion and why, no duplicate topic**  
-3. **I only recommend those really standsout books, you can read with the order** 
+3. **I only recommend those really standsout books, you can read with the order**
+
+[**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
 
 ### new to cs and qc(all-in-one):
 - [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
