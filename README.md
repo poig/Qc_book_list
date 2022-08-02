@@ -9,9 +9,9 @@ if any resources link having Copyright / License / Issues please post new issue
 
 [**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
 
-### new to cs and qc(all-in-one):
-- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
+### new to cs and qc(all-in-one, pre-require math):
 - [Qiskit Textbook](https://qiskit.org/textbook/preface.html) by qiskit contributor
+- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
 
 ### new to quantum computing:
 - [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong
