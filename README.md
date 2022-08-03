@@ -19,7 +19,7 @@ if any resources link having Copyright / License / Issues please post new issue
 - [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott
 
-### General background to procceed intermediate and advanced level:
+### General background to proceed intermediate and advanced level:
 Quantum computing (theory) is at the intersection of math, physics and computer science. (Experiment also can involve electrical engineering.) Eventually you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
 
 - Physics: First learn quantum mechanics. At more advanced levels, various aspects of quantum information overlap with AMO, condensed matter and high energy.  
