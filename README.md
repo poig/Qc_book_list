@@ -37,7 +37,8 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 ### advanced level:
 - [**Modern Quantum Mechanics (2nd Edition) 2nd Edition**](https://kgut.ac.ir/useruploads/1505647831850hcd.pdf) by J. J. Sakurai, Jim J. Napolitano
 - **Alice and Bob Meet Banach**: The Interface of Asymptotic Geometric Analysis and Quantum Information Theory (Mathematical Surveys and Monographs) by Guillaume Aubrun, Stanislaw J. Szarek
-- [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde
+- [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde, it is more in theory.
+- [**The Theory of Quantum Information**](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) by John Watrous, it is more in math.
 - [**Principles of Quantum Mechanics**](http://mis.kp.ac.rw/admin/admin_panel/kp_lms/files/digital/SelectiveBooks/Mathematics/Principles%20of%20Quantum%20Mechanics%20-%20Ramamurti%20Shankar.pdf) by Ramamurti Shankar
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188.pdf) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen and Andreas Winter
 - [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin
