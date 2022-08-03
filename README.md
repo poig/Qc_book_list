@@ -23,7 +23,7 @@ if any resources link having Copyright / License / Issues please post new issue
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) by  Michael A. Nielsen, Isaac L. Chuang
 - [**The Theory of Open Quantum Systems**](https://ochicken.top/Library/Physics/Quantum_Computation_and_Quantum_Information/Heinz-Peter%20Breuer,%20Francesco%20Petruccione%20-%20The%20Theory%20of%20Open%20Quantum%20Systems.pdf) by Heinz-Peter Breuer , Francesco Petruccione
-- [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter and myself. Idiosyncratic and incomplete lecture notes on some of our pet topics.
+- [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter and Aram Harrow. Idiosyncratic and incomplete lecture notes on some of mit pet topics.
 - [**Lecture Notes on Quantum Algorithms**](https://www.cs.umd.edu/~amchilds/qa/) by Andrew Childs
 
 ### advanced level:
