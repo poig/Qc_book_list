@@ -1,7 +1,7 @@
 # Qc_book_list
 
 ## I hope this can help those who want to self-study quantum computing
-if any resources link having Copyright / License / Issues please post new issue  
+**if any resources link having Copyright / License / Issues please post new issue**  
 #### few points to address:
 1. **please support author, those pdf link can be easily found by googling name only**  
 2. **welcome open a new issue for books suggestion and why, no duplicate topic**  
@@ -19,7 +19,7 @@ if any resources link having Copyright / License / Issues please post new issue
 - [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott
 
-### [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html):
+### [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html) [(more comprehensive guide)](https://www.cs.umd.edu/~xwu/mini_lib.html):
 Quantum computing (theory) is at the intersection of math, physics and computer science. (Experiment also can involve electrical engineering.) Eventually you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
 
 - Physics: First learn quantum mechanics. At more advanced levels, various aspects of quantum information overlap with AMO, condensed matter and high energy.  
