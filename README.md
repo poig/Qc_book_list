@@ -19,6 +19,13 @@ if any resources link having Copyright / License / Issues please post new issue
 - [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott
 
+### General background to process intermediate and advanced level:
+Quantum computing (theory) is at the intersection of math, physics and computer science. (Experiment also can involve electrical engineering.) Eventually you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
+
+- Physics: First learn quantum mechanics. At more advanced levels, various aspects of quantum information overlap with AMO, condensed matter and high energy.  
+- Math: First linear algebra and probability. Later my preferences would be to learn some group and representation theory, random matrix theory and functional analysis, but eventually most fields of math have some overlap with quantum information, and other researchers may emphasize different areas of math.  
+- Computer Science: Most theory topics are relevant although are less crucial at first: i.e. algorithms, cryptography, information theory, error-correcting codes, optimization, complexity, machine learning. If you haven't had any CS theory exposure, undergrad algorithms is a good place to start because it will show you CS-theory ways of thinking, including ideas like asymptotic analysis.
+
 ### intermediate level:
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) by  Michael A. Nielsen, Isaac L. Chuang
