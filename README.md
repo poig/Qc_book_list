@@ -22,16 +22,24 @@ if any resources link having Copyright / License / Issues please post new issue
 ### intermediate level:
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) by  Michael A. Nielsen, Isaac L. Chuang
+- [**The Theory of Open Quantum Systems**](https://ochicken.top/Library/Physics/Quantum_Computation_and_Quantum_Information/Heinz-Peter%20Breuer,%20Francesco%20Petruccione%20-%20The%20Theory%20of%20Open%20Quantum%20Systems.pdf) by Heinz-Peter Breuer , Francesco Petruccione
 - [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter and myself. Idiosyncratic and incomplete lecture notes on some of our pet topics.
 - [**Lecture Notes on Quantum Algorithms**](https://www.cs.umd.edu/~amchilds/qa/) by Andrew Childs
 
 ### advanced level:
+- [**Modern Quantum Mechanics (2nd Edition) 2nd Edition by J. J. Sakurai, Jim J. Napolitano**](https://kgut.ac.ir/useruploads/1505647831850hcd.pdf)
 - **Alice and Bob Meet Banach**: The Interface of Asymptotic Geometric Analysis and Quantum Information Theory (Mathematical Surveys and Monographs) by Guillaume Aubrun, Stanislaw J. Szarek
 - [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde
 - [**Principles of Quantum Mechanics**](http://mis.kp.ac.rw/admin/admin_panel/kp_lms/files/digital/SelectiveBooks/Mathematics/Principles%20of%20Quantum%20Mechanics%20-%20Ramamurti%20Shankar.pdf) by Ramamurti Shankar
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188.pdf) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen and Andreas Winter
 - [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/abs/1410.7188) by Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder
+- [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths
+
+### quantum chemistry:
+- [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice
+- [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero,etc
+- 
 
 ### If you want to see what research is currently hot, you can take a look 
 - [**QIP workshops**](https://qipconference.org/)  
