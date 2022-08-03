@@ -41,7 +41,6 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 - [**Principles of Quantum Mechanics**](http://mis.kp.ac.rw/admin/admin_panel/kp_lms/files/digital/SelectiveBooks/Mathematics/Principles%20of%20Quantum%20Mechanics%20-%20Ramamurti%20Shankar.pdf) by Ramamurti Shankar
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188.pdf) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen and Andreas Winter
 - [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin
-- [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/abs/1410.7188) by Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths
 
 ### quantum chemistry:
