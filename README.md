@@ -14,8 +14,8 @@
 - [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
 
 ### new to quantum computing:
-- [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong
-- **Quantum Computing: An Applied Approach** by Hidary, Jack D., it is a super introduction book explain from basic Classical computing to Quantum computing
+- [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong, it is a super introduction book explain from basic Classical computing to Quantum computing
+- **Quantum Computing: An Applied Approach** by Hidary, Jack D., it talks about the foundation and tools you need for QC
 - [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin, you will learn what quantum computer doing, why is it important
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott, it talks about popular science.
 
