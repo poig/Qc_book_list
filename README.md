@@ -51,6 +51,7 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 ### quantum machine learning
 - [**pennylane guide**](https://pennylane.ai/qml/)
 - [**qiskit machine learning course**](https://learn.qiskit.org/course/machine-learning/introduction)
+- [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML)
 
 ### If you want to see what research is currently hot, you can take a look 
 - [**QIP workshops**](https://qipconference.org/)  
