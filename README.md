@@ -24,7 +24,6 @@
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) by Catalina Albornoz, Guillermo Alonso, Mikhail Andrenkov, and more. it is a fantastic codebook which giving you a good basic understand of quantum computing, you should go over it before going for more exercise or content, if you get stuck hard check [walkthrough from Owen Lockwood](https://youtube.com/playlist?list=PL91jA61XuCIB-4giBW3Hs-We1FE-fUxPV)
 - [IBM Quantum Challenge](https://github.com/search?q=org%3Aqiskit-community+quantum+challenge) by qiskit community, each year have different topic, where you can learn more about quantum computing, if you need help, go to qiskit slack challenge, each challenge have different channels, where you can search for previous hints or question been asked.
 - [QOSF Monthly Challenges](https://github.com/qosf/monthly-challenges) by qosf contributor, contain a lot challenge and interesting topic in quantum computing.
-- 
 
 ### [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html) [(click me for more comprehensive guide)](https://www.cs.umd.edu/~xwu/mini_lib.html):
 Quantum computing (theory) is at the intersection of math, physics and computer science. (Experiment also can involve electrical engineering.) Eventually you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
@@ -55,6 +54,7 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 ### quantum chemistry:
 - [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice
 - [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero,etc
+- [Quantum Chemistry Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine
 
 ### quantum machine learning
 - [**pennylane guide**](https://pennylane.ai/qml/)
