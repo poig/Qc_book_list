@@ -21,7 +21,7 @@
 
 ### Good Exercise:
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) by Catalina Albornoz, Guillermo Alonso, Mikhail Andrenkov, and more. it is a fantastic codebook which giving you a good basic understand of quantum computing, you should go over it before going for more exercise or content, if you get stuck hard check [walkthrough from Owen Lockwood](https://youtube.com/playlist?list=PL91jA61XuCIB-4giBW3Hs-We1FE-fUxPV)
-- [IBM Quantum Challenge](https://github.com/search?q=org%3Aqiskit-community+quantum+challenge) by qiskit community, each year have different topic, where you can learn more about quantum computing, if you need help at qiskit slack challenge, each challenge have different channels, where you can search for previous hints or question been asked.
+- [IBM Quantum Challenge](https://github.com/search?q=org%3Aqiskit-community+quantum+challenge) by qiskit community, each year have different topic, where you can learn more about quantum computing, if you need help, go to qiskit slack challenge, each challenge have different channels, where you can search for previous hints or question been asked.
 - [QOSF Monthly Challenges](https://github.com/qosf/monthly-challenges) by qosf contributor, contain a lot challenge and interesting topic in quantum computing.
 - 
 
