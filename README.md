@@ -18,6 +18,7 @@
 - [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong, it is a super introduction book explain from basic Classical computing to Quantum computing
 - **Quantum Computing: An Applied Approach** by Hidary, Jack D., it talks about the foundation and tools you need for QC
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott, it talks about popular science.
+- [Medium article - reliminary Thoughts on Fault-Tolerant Quantum Computing, Quantum Error Correction, and Logical Qubits](https://jackkrupansky.medium.com/preliminary-thoughts-on-fault-tolerant-quantum-computing-quantum-error-correction-and-logical-1f9e3f122e71) by Jack Krupansky, answering a list of good questions and thoughts.
 
 ### Good Exercise:
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) by Catalina Albornoz, Guillermo Alonso, Mikhail Andrenkov, and more. it is a fantastic codebook which giving you a good basic understand of quantum computing, you should go over it before going for more exercise or content, if you get stuck hard check [walkthrough from Owen Lockwood](https://youtube.com/playlist?list=PL91jA61XuCIB-4giBW3Hs-We1FE-fUxPV)
