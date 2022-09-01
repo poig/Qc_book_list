@@ -10,7 +10,7 @@
 [**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
 
 ### new to cs and qc(all-in-one, pre-require math):
-- [Qiskit Textbook](https://qiskit.org/textbook/preface.html) by qiskit contributor
+- [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor
 - [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
 
 ### new to quantum computing:
@@ -18,7 +18,7 @@
 - [**Introduction to Classical and Qantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong, it is a super introduction book explain from basic Classical computing to Quantum computing
 - **Quantum Computing: An Applied Approach** by Hidary, Jack D., it talks about the foundation and tools you need for QC
 - **Quantum computing since democritus** -Cambridge University Press (2018) by Aaronson, Scott, it talks about popular science.
-- [Medium article - reliminary Thoughts on Fault-Tolerant Quantum Computing, Quantum Error Correction, and Logical Qubits](https://jackkrupansky.medium.com/preliminary-thoughts-on-fault-tolerant-quantum-computing-quantum-error-correction-and-logical-1f9e3f122e71) by Jack Krupansky, answering a list of good questions and thoughts.
+- [Medium article - **reliminary Thoughts on Fault-Tolerant Quantum Computing, Quantum Error Correction, and Logical Qubits**](https://jackkrupansky.medium.com/preliminary-thoughts-on-fault-tolerant-quantum-computing-quantum-error-correction-and-logical-1f9e3f122e71) by Jack Krupansky, answering a list of good questions and thoughts.
 
 ### Good Exercise:
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) by Catalina Albornoz, Guillermo Alonso, Mikhail Andrenkov, and more. it is a fantastic codebook which giving you a good basic understand of quantum computing, you should go over it before going for more exercise or content, if you get stuck hard check [walkthrough from Owen Lockwood](https://youtube.com/playlist?list=PL91jA61XuCIB-4giBW3Hs-We1FE-fUxPV)
@@ -54,11 +54,11 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 ### quantum chemistry:
 - [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice
 - [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero,etc
-- [Quantum Chemistry Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine
+- [**Quantum Chemistry** Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine
 
 ### quantum machine learning
+- [**2021 Qiskit Global Summer School on Quantum Machine Learning**](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021) by group of expert and qiskit team, it teach from fundamental quantum computing to important concepts of quantum computing, and [**qiskit machine learning textbook**](https://learn.qiskit.org/course/machine-learning/introduction) for more.
 - [**pennylane guide**](https://pennylane.ai/qml/)
-- [**qiskit machine learning course**](https://learn.qiskit.org/course/machine-learning/introduction)
 - [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML)
 
 ### If you want to see what research is currently hot, you can take a look 
