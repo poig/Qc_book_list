@@ -12,4 +12,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for your [suggestions](../../edit/master/README.md)!
+Thank you for your [suggestions](../../edit/main/README.md)!
