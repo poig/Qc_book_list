@@ -1,0 +1,41 @@
+name: Book Proposal/suggest change
+description: Suggest a book
+labels: []
+
+body:
+  - type: markdown
+    attributes:
+      value: "# Suggest a book"
+
+  - type: textarea
+    attributes:
+      label: Book Name
+      description: the book of the name
+      value: |
+        <!-- example
+        Quantum Computation and Quantum Information_ 10th Anniversary Edition-Cambridge University Press (2011) by Michael A. Nielsen, Isaac L. Chuang
+        -->
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Book description
+      description: What's the book talking about
+      value: |
+        <!-- example
+        -->
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: additional details
+      description: why add the book, is there a pdf link to the book available open free?
+      value: |
+        <!-- example
+        -->
+    validations:
+      required: false
+
+  
