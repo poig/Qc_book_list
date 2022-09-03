@@ -10,8 +10,9 @@
 [**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
 
 ### new to cs and qc(all-in-one, pre-require math):
-- [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor
-- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous
+- [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor, its keep on update, and having much friendly introduction content, in highschool math.
+- [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contain a brief content of quantum algorithm, and it accept suggestion and keep on update.
+- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous, it contain most of the deep level content of quantum computing.
 
 ### new to quantum computing:
 - **dancing with qubits** by Robert S. Sutor, introducion concept from basic math
