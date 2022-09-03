@@ -4,14 +4,13 @@
 **if any resources link having Copyright / License / Issues please post new issue**  
 #### few points to address:
 1. **please support author, those pdf link can be easily found by googling name only**  
-2. **welcome open a new issue for books suggestion and why, no duplicate topic**  
+2. **welcome open a new issue or a new pull request for books suggestion and why, no duplicate content**  
 3. **I only recommend those really standsout books, you can read with the order**
 
 [**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
 
 ### new to cs and qc(all-in-one, pre-require math):
 - [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor, its keep on update, and having much friendly introduction content, in highschool math.
-- [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contain a brief content of quantum algorithm, and it accept suggestion and keep on update.
 - [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous, it contain most of the deep level content of quantum computing.
 
 ### new to quantum computing:
@@ -53,14 +52,16 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics
 
 ### quantum chemistry:
-- [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice
-- [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero,etc
+- [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero,etc. introduction of quantum chemistry from history.
+- [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice, brief introduction of computing algorithms for quantum chemistry
 - [**Quantum Chemistry** Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine
 
 ### quantum machine learning
 - [**2021 Qiskit Global Summer School on Quantum Machine Learning**](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021) by group of expert and qiskit team, it teach from fundamental quantum computing to important concepts of quantum computing, and [**qiskit machine learning textbook**](https://learn.qiskit.org/course/machine-learning/introduction) for more.
-- [**pennylane guide**](https://pennylane.ai/qml/)
-- [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML)
+- [**pennylane guide**](https://pennylane.ai/qml/) good conprehensive guide with quantum concept to quantum machine learning.
+- [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contain a brief content of introduction from basic quantum algorithm to machine learning with a lot of math, and it accept suggestion and keep on update.
+- [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML) brief content of quantum machine leanring resources.
+
 
 ### If you want to see what research is currently hot, you can take a look 
 - [**QIP workshops**](https://qipconference.org/)  
