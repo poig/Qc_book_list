@@ -3,11 +3,24 @@
 ## I hope this can help those who want to self-study quantum computing
 **if any resources link having Copyright / License / Issues please post new issue**  
 #### few points to address:
-1. **please support author, those pdf link can be easily found by googling name only**  
-2. **welcome open a new issue or a new pull request for books suggestion and why, no duplicate content**  
-3. **I only recommend those really standsout books, you can read with the order**
+1. *please support author, those pdf link can be easily found by googling name only*  
+2. *welcome open a new issue or a new pull request for books suggestion, please read [CONTRIBUTING.md](CONTRIBUTING.md#readme).*  
+3. *I only recommend those really standsout books, you can read with the order*
 
 [**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
+
+## Contents
+
+- [New to CS and QC](#new-to-cs-and-qcall-in-one-pre-require-math)
+- [New to QC](#new-to-quantum-computing)
+- [Good Exercise](#good-exercise)
+- [General background to proceed intermediate and advanced level](#general-background-to-proceed-intermediate-and-advanced-level-click-me-for-more-comprehensive-guide)
+- [Intermediate level](#intermediate-level)
+- [Advanced level](#advanced-level)
+- [Quantum chemistry](#quantum-chemistry)
+- [Quantum machine learning](#quantum-machine-learning)
+- [Current hot research](#if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
+- [Other awesome resources](#other-awesome-resources)
 
 ### new to cs and qc(all-in-one, pre-require math):
 - [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor, its keep on update, and having much friendly introduction content, in highschool math.
@@ -68,3 +81,8 @@ Quantum computing (theory) is at the intersection of math, physics and computer 
 - [**check the most cited papers**](https://scirate.com/)
 - [**Qiskit Seminar**](https://qiskit.org/events/seminar-series/)
 - [**Qutech seminar**](https://qutech.nl/newsroom/events/)
+
+### other awesome resources
+- [Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources)
+- [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+- [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
