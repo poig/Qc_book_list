@@ -3,7 +3,7 @@
 ## I hope this can help those who want to self-study quantum computing
 **if any resources link having Copyright / License / Issues please post new issue**  
 #### few points to address:
-1. *please support author, those pdf are open accessible by univeristy or authors*  
+1. *please support author, those pdf are open accessible by univeristy or authors or organization*  
 2. *welcome open a new issue or a new pull request for books suggestion, please read [CONTRIBUTING.md](CONTRIBUTING.md#readme).*  
 3. *I only recommend those really standsout books, you can read with the order*
 
