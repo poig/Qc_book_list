@@ -86,6 +86,9 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources)
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
+- [explore different collection of resources or zoo](https://www.linkedin.com/posts/agata-branczyk_quantumcomputing-algorithms-complexity-activity-6967141965960282112-CYUe?utm_source=share&utm_medium=member_desktop) by Aggie Branczyk, she explain different collection of resources or "zoo", including, Complexity Zoo, Quantum Algorithm Zoo, Error Correction Zoo, Qubit Zoo, Quantum Protocol Zoo.
+- [Careers in Quantum](https://www.agatabranczyk.com/careersinquantum.html) by Aggie Branczyk, a curated list of resources to help you build your career in quantum tech.
+- [Quantum article](https://www.radhapyarisandhir.com/quantum/) by Dr. Radha Pyari Sandhir, searchable reservoir with category.
 
 ## Contributing
 please read [CONTRIBUTING.md](CONTRIBUTING.md#readme)
