@@ -55,7 +55,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 ### advanced level:
 - [**Modern Quantum Mechanics (2nd Edition) 2nd Edition**](https://kgut.ac.ir/useruploads/1505647831850hcd.pdf) by J. J. Sakurai, Jim J. Napolitano, talks about the important concepts that use in QC.
 - [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter, and Aram Harrow. Idiosyncratic and incomplete lecture notes on some of mit pet topics.
-- [**The Theory of Open Quantum Systems**](https://www.researchgate.net/publication/235426843_The_Theory_of_Open_Quantum_Systems) by Heinz-Peter Breuer, Francesco Petruccione, it explains deeper into how quantum computing work. [lecture note](https://arxiv.org/abs/1902.00967) by Daniel A. Lidar
+- **The Theory of Open Quantum Systems** by Heinz-Peter Breuer, Francesco Petruccione, it explains deeper into how quantum computing work. [lecture note](https://arxiv.org/abs/1902.00967) by Daniel A. Lidar
 - **Alice and Bob Meet Banach**: The Interface of Asymptotic Geometric Analysis and Quantum Information Theory (Mathematical Surveys and Monographs) by Guillaume Aubrun, Stanislaw J. Szarek, use math like asymptotic geometric analysis(AGA) to explain quantum information theory.
 - [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde, is a more theoretical aspect.
 - [**The Theory of Quantum Information**](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) by John Watrous, is focused on math and proof of the theory.
