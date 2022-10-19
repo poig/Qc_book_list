@@ -74,6 +74,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**pennylane guide**](https://pennylane.ai/qml/) good comprehensive guide to the quantum concept of quantum machine learning.
 - [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contains a brief content introduction to the basic quantum algorithm to machine learning with a lot of math, and it accepts the suggestion and keeps on update.
 - [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML) brief content of quantum machine learning resources.
+- [**Awesome Quantum Machine Learning**](https://github.com/llSourcell/quantum_machine_learning) contain a very clear explanation of most of the areas in quantum machine learning, from basic quantum computing and math concepts to other complex ideas.
 
 
 ### If you want to see what research is currently hot, you can take a look: 
