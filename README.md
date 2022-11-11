@@ -3,7 +3,7 @@
 ## I hope this can help those who want to self-study quantum computing.
 **if any resources link having Copyright / License / Issues please post a new issue.**  
 #### few points to address:
-1. *please support the author, those pdf are openly by universities, authors, or organizations.*  
+1. *please support the author, those pdf are open access by universities, authors, or organizations.*  
 2. *welcome open a new issue or a new pull request for books suggestion, please read [CONTRIBUTING.md](CONTRIBUTING.md#readme).*  
 3. *I only recommend those stand-out books, you can read with the order.*
 
@@ -65,6 +65,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics.
 
 ### quantum chemistry:
+- [**2022 Qiskit global summer school on quantum simulation**](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022) by group of experts and the qiskit team, it teach a brief introduction and overview of quantum simulation from basics to Quantum dynamics.
 - [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero, etc. introduction of quantum chemistry from history.
 - [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice, brief introduction of computing algorithms for quantum chemistry.
 - [**Quantum Chemistry** Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine.
