@@ -92,6 +92,9 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [Careers in Quantum](https://www.agatabranczyk.com/careersinquantum.html)
 - [The Quantum Catalog](https://quantumcatalog.com/)
 
+### certificate:
+- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of resources from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2) with this certificate, you proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK.
+
 ## Contributing
 please read [CONTRIBUTING.md](CONTRIBUTING.md#readme)
 
