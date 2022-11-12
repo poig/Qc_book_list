@@ -14,6 +14,7 @@
 - [New to CS and QC](#new-to-cs-and-qcall-in-one-pre-require-math)
 - [New to QC](#new-to-quantum-computing)
 - [Good Exercise](#good-exercise)
+- [Certificate](#certificate)
 - [General background to proceed intermediate and advanced level](#general-background-to-proceed-intermediate-and-advanced-level-click-me-for-more-comprehensive-guide)
 - [Intermediate level](#intermediate-level)
 - [Advanced level](#advanced-level)
@@ -38,14 +39,17 @@
 - [IBM Quantum Challenge](https://github.com/search?q=org%3Aqiskit-community+quantum+challenge) by the qiskit community, each year has a different topic, where you can learn more about quantum computing, if you need help, go to qiskit slack, each challenge has different channels, where you can search for previous hints or questions asked.
 - [QOSF Monthly Challenges](https://github.com/qosf/monthly-challenges) by qosf contributor, contains a lot of challenges and interesting topics in quantum computing.
 
+### Certificate:
+- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of resources from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2) with this certificate, you proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK.
+
 ### [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html) [(click me for more comprehensive guide)](https://www.cs.umd.edu/~xwu/mini_lib.html):
 Quantum computing (theory) is at the intersection of math, physics, and computer science. (Experiment also can involve electrical engineering.) Eventually, you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
-
 - Physics: First learn quantum mechanics. At more advanced levels, various aspects of quantum information overlap with AMO, condensed matter, and high energy.  
 - Math: First linear algebra and probability. Later my preferences would be to learn some group and representation theory, random matrix theory, and functional analysis, but eventually, most fields of math overlap with quantum information, and other researchers may emphasize different areas of math.  
 - Computer Science: Most theory topics are relevant although are less crucial at first: i.e. algorithms, cryptography, information theory, error-correcting codes, optimization, complexity, and machine learning. If you haven't had any CS theory exposure, undergrad algorithms are a good place to start because they will show you CS-theory ways of thinking, including ideas like the asymptotic analysis.
 
 ### intermediate level:
+- [**2020 Qiskit Global Summer School on Quantum Computing and Quantum Hardware**](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020) by qiskit team, it introduce the key quantum algorithms and thier implementations using quantum circuits, as well as the quantum hardware is designed o run these algorihtms.
 - [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin, you will learn what quantum computer doing, and why is it important.
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter, a good introduction to QM.
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) by  Michael A. Nielsen, Isaac L. Chuang, the bible of quantum computing.
@@ -65,7 +69,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics.
 
 ### quantum chemistry:
-- [**2022 Qiskit global summer school on quantum simulation**](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022) by group of experts and the qiskit team, it teach a brief introduction and overview of quantum simulation from basics to Quantum dynamics.
+- [**2022 Qiskit global summer school on quantum simulation**](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022) by group of experts and the qiskit team, it is a 2-week intensive summer school teach a brief introduction and overview of quantum simulation from basics to Quantum dynamics.
 - [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero, etc. introduction of quantum chemistry from history.
 - [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice, brief introduction of computing algorithms for quantum chemistry.
 - [**Quantum Chemistry** Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine.
@@ -84,16 +88,13 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Qiskit Seminar**](https://qiskit.org/events/seminar-series/)
 - [**Qutech seminar**](https://qutech.nl/newsroom/events/)
 
-### other awesome resources:
+### Other awesome resources:
 - [Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources)
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 - [Explore different collection of resources or zoo](https://www.linkedin.com/posts/agata-branczyk_quantumcomputing-algorithms-complexity-activity-6967141965960282112-CYUe?utm_source=share&utm_medium=member_desktop)
 - [Careers in Quantum](https://www.agatabranczyk.com/careersinquantum.html)
 - [The Quantum Catalog](https://quantumcatalog.com/)
-
-### certificate:
-- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of resources from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2) with this certificate, you proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK.
 
 ## Contributing
 please read [CONTRIBUTING.md](CONTRIBUTING.md#readme)
