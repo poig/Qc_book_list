@@ -88,7 +88,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 
 ### Cool software sources:
 - [**Quantum Open Source Foundation**](https://qosf.org/) organization that supporting the development and standardization of open tools for quantum computing. Where you can find learning resources, list of open sources quantum software, qosf mentorship information which any background with related experience can join and more.
-- [**Open Sources Physics**](https://www.compadre.org/osp/index.cfm) provides curriculum resources that engage students in physics, computation, and computer modeling. Computational physics and computer modeling provide students with new ways to understand, describe, explain, and predict physical phenomena. Its worth to explore, if you interest in physics, where you can find cool.
+- [**Open Sources Physics**](https://www.compadre.org/osp/index.cfm) provides curriculum resources that engage students in physics, computation, and computer modeling. Computational physics and computer modeling provide students with new ways to understand, describe, explain, and predict physical phenomena. even though its a very old website, but its worth to explore, if you interest in physics, where you can find useful resources and cool simulation.
 
 ### If you want to see what research is currently hot, you can take a look: 
 - [**QIP workshops**](https://qipconference.org/)  
