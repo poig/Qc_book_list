@@ -20,6 +20,8 @@
 - [Advanced level](#advanced-level)
 - [Quantum chemistry](#quantum-chemistry)
 - [Quantum machine learning](#quantum-machine-learning)
+- [Quantum cryptography](quantum-cryptography)
+- [Cool software sources](#cool-software-sources)
 - [Current hot research](#if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
 - [Other awesome resources](#other-awesome-resources)
 
@@ -40,7 +42,7 @@
 - [QOSF Monthly Challenges](https://github.com/qosf/monthly-challenges) by qosf contributor, contains a lot of challenges and interesting topics in quantum computing.
 
 ### Certificate:
-- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of exam related resources and information from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2), this certificate proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK.
+- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of exam related resources and information from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2), this certificate proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK. This also open opportunity for you to join [qiskit-advocate](https://qiskit.org/advocates/).
 
 ### [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html) [(click me for more comprehensive guide)](https://www.cs.umd.edu/~xwu/mini_lib.html):
 Quantum computing (theory) is at the intersection of math, physics, and computer science. (Experiment also can involve electrical engineering.) Eventually, you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
@@ -68,19 +70,25 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin, it is experiment physics book of superconducting computing.
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics.
 
-### quantum chemistry:
+### Quantum chemistry:
 - [**2022 Qiskit global summer school on quantum simulation**](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022) by group of experts and the qiskit team, it is a 2-week intensive summer school teach a brief introduction and overview of quantum simulation from basics to Quantum dynamics.
 - [**Quantum Chemistry in the Age of Quantum Computing**](https://arxiv.org/abs/1812.09976) by Yudong Cao, Jonathan Romero, etc. introduction of quantum chemistry from history.
 - [**Emerging quantum computing algorithms for quantum chemistry**](https://arxiv.org/abs/2109.02873) by Mario Motta, Julia Rice, brief introduction of computing algorithms for quantum chemistry.
 - [**Quantum Chemistry** Seven Edition](https://hmmcollege.ac.in/uploads/Levine_Quantum_Chemistry_(7th).pdf) by Ira N. Levine.
 
-### quantum machine learning:
+### Quantum machine learning:
 - [**2021 Qiskit Global Summer School on Quantum Machine Learning**](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021) by a group of experts and the qiskit team, it teaches from fundamental quantum computing to important concepts of quantum computing, and [**qiskit machine learning textbook**](https://learn.qiskit.org/course/machine-learning/introduction) for more.
 - [**pennylane guide**](https://pennylane.ai/qml/) good comprehensive guide to the quantum concept of quantum machine learning.
 - [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contains a brief content introduction to the basic quantum algorithm to machine learning with a lot of math, and it accepts the suggestion and keeps on update.
 - [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML) brief content of quantum machine learning resources.
 - [**Awesome Quantum Machine Learning**](https://github.com/llSourcell/quantum_machine_learning) contain a very clear explanation of most of the areas in quantum machine learning, from basic quantum computing and math concepts to other complex ideas.
 
+### Quantum cryptography:
+- [**Awesome-post-quantum**](https://github.com/veorq/awesome-post-quantum) contain a curated list of resources about post-quantum cryptography.
+
+### Cool software sources:
+- [**Quantum Open Source Foundation**](https://qosf.org/) organization that supporting the development and standardization of open tools for quantum computing. Where you can find learning resources, list of open sources quantum software, qosf mentorship information which any background with related experience can join and more.
+- [**Open Sources Physics**](https://www.compadre.org/osp/index.cfm) provides curriculum resources that engage students in physics, computation, and computer modeling. Computational physics and computer modeling provide students with new ways to understand, describe, explain, and predict physical phenomena. Its worth to explore, if you interest in physics, where you can find cool.
 
 ### If you want to see what research is currently hot, you can take a look: 
 - [**QIP workshops**](https://qipconference.org/)  
