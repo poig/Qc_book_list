@@ -20,7 +20,7 @@
 - [Advanced level](#advanced-level)
 - [Quantum chemistry](#quantum-chemistry)
 - [Quantum machine learning](#quantum-machine-learning)
-- [Quantum cryptography](quantum-cryptography)
+- [Quantum cryptography](#quantum-cryptography)
 - [Cool software sources](#cool-software-sources)
 - [Current hot research](#if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
 - [Other awesome resources](#other-awesome-resources)
