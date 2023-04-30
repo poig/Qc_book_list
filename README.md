@@ -26,7 +26,7 @@
 - [Other awesome resources](#other-awesome-resources)
 
 ### new to cs and QC(all-in-one, pre-require math):
-- [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html) or [Qiskit Textbook(beta)](https://qiskit.org/learn) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
+- [**Qiskit Textbook**](https://qiskit.org/learn) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
 - [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous, contains most of the deep-level content of quantum computing.
 
 ### new to quantum computing:
