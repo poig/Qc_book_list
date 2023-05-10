@@ -102,8 +102,8 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 - [Explore different collection of resources or zoo](https://www.linkedin.com/posts/agata-branczyk_quantumcomputing-algorithms-complexity-activity-6967141965960282112-CYUe?utm_source=share&utm_medium=member_desktop)
-- [Careers in Quantum](https://www.agatabranczyk.com/careersinquantum.html)
-- [The Quantum Catalog](https://quantumcatalog.com/)
+- [Careers in Quantum](https://aggiebranczyk.com/careers-in-quantum/)
+- [Musty Thoughts](https://www.mustythoughts.com/resources.html)
 
 ## Contributing
 please read [CONTRIBUTING.md](CONTRIBUTING.md#readme)
