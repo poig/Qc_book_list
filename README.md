@@ -109,6 +109,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [Careers in Quantum](https://aggiebranczyk.com/careers-in-quantum/)
 - [Musty Thoughts](https://www.mustythoughts.com/resources.html)
 - [Quantum Grad](quantumgrad.com)
+- [The Quantum Classroom](https://monitsharma.github.io/)
 
 ## Contributing
 please read [CONTRIBUTING.md](CONTRIBUTING.md#readme)
