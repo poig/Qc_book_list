@@ -11,20 +11,20 @@
 
 ## Contents
 
-- [New to CS and QC](#-new-to-cs-and-qcall-in-one-pre-require-math)
-- [New to QC](#-new-to-quantum-computing)
-- [Good Exercise](#-good-exercise)
-- [Certificate](#-certificate)
-- [General background to proceed intermediate and advanced level](#-general-background-to-proceed-intermediate-and-advanced-level-click-me-for-more-comprehensive-guide)
-- [Intermediate level](#-intermediate-level)
-- [Advanced level](#-advanced-level)
-- [Quantum chemistry](#%EF%B8%8F-quantum-chemistry)
-- [Quantum machine learning](#-quantum-machine-learning)
-- [Quantum cryptography](#-quantum-cryptography)
-- [Quantum music](#-quantum-music-and-art)
-- [Cool software sources](#-cool-software-sources)
-- [Current hot research](#-if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
-- [Other awesome resources](#-other-awesome-resources)
+- [🆕New to CS and QC](#-new-to-cs-and-qcall-in-one-pre-require-math)
+- [🆕New to QC](#-new-to-quantum-computing)
+- [💪Good Exercise](#-good-exercise)
+- [🎓Certificate](#-certificate)
+- [🧐General background to proceed intermediate and advanced level](#-general-background-to-proceed-intermediate-and-advanced-level-click-me-for-more-comprehensive-guide)
+- [🤔Intermediate level](#-intermediate-level)
+- [🤯Advanced level](#-advanced-level)
+- [⚛️Quantum chemistry](#%EF%B8%8F-quantum-chemistry)
+- [🤖Quantum machine learning](#-quantum-machine-learning)
+- [🔒Quantum cryptography](#-quantum-cryptography)
+- [🎨Quantum music and art](#-quantum-music-and-art)
+- [📚Cool software sources](#-cool-software-sources)
+- [🔥Current hot research](#-if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
+- [🔍Other awesome resources](#-other-awesome-resources)
 
 ### 🆕💻🧮 new to cs and QC(all-in-one, pre-require math):
 - [**Qiskit Textbook**](https://qiskit.org/learn) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
@@ -106,7 +106,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Fact based insight**](factbasedinsight.com)
 - [**Quantum youtube channels**](https://github.com/mgg39/Quantum-youtube-channels)
 
-### 📚 Other awesome resources:
+### 🔍 Other awesome resources:
 - [Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources)
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [quantum-resource-list](https://github.com/brunorijsman/quantum-resource-list)
