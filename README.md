@@ -33,8 +33,8 @@
 ### 🆕💻 new to quantum computing:
 - **Dancing with qubits** by Robert S. Sutor, introduction concept from basic math.
 - [**Introduction to Classical and Quantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong, is a super introduction book that explains basic Classical computing to Quantum computing.
-- **Quantum Computing: An Applied Approach** by Hidary, Jack D., talks about the foundation and tools you need for QC.
-- **Quantum computing since Democritus** -Cambridge University Press (2018) by Aaronson, Scott, talks about popular science.
+- **Quantum Computing: An Applied Approach** -Springer (2021) by Hidary, Jack D., talks about the foundation and tools you need for QC.
+- [**Quantum computing since Democritus** -Cambridge University Press (2013)](http://s3.amazonaws.com/arena-attachments/958521/7c581f75f258e9c36788c60cf45f3961.pdf?1491247031) by Aaronson, Scott, talks about popular science.
 - [Medium article - **Preliminary Thoughts on Fault-Tolerant Quantum Computing, Quantum Error Correction, and Logical Qubits**](https://jackkrupansky.medium.com/preliminary-thoughts-on-fault-tolerant-quantum-computing-quantum-error-correction-and-logical-1f9e3f122e71) by Jack Krupansky, answering a list of good questions and thoughts.
 
 ### 💪 Good Exercise:
