@@ -103,7 +103,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Qiskit Seminar**](https://qiskit.org/events/seminar-series/)
 - [**Qutech seminar**](https://qutech.nl/newsroom/events/)
 - [**Quantum Computer System Lecture Series**](https://sites.nd.edu/quantum/)
-- [**Fact based insight**](factbasedinsight.com)
+- [**Fact based insight**](https://factbasedinsight.com)
 - [**Quantum youtube channels**](https://github.com/mgg39/Quantum-youtube-channels)
 
 ### 🔍 Other awesome resources:
@@ -115,7 +115,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [Explore different collection of resources or zoo](https://www.linkedin.com/posts/agata-branczyk_quantumcomputing-algorithms-complexity-activity-6967141965960282112-CYUe?utm_source=share&utm_medium=member_desktop)
 - [Careers in Quantum](https://aggiebranczyk.com/careers-in-quantum/)
 - [Musty Thoughts](https://www.mustythoughts.com/resources.html)
-- [Quantum Grad](quantumgrad.com)
+- [Quantum Grad](https://www.quantumgrad.com)
 - [The Quantum Classroom](https://monitsharma.github.io/)
 
 ## 🤝 Contributing
