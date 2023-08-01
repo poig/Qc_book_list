@@ -22,6 +22,7 @@
 - [🤖Quantum machine learning](#-quantum-machine-learning)
 - [🔒Quantum cryptography](#-quantum-cryptography)
 - [🎨Quantum music and art](#-quantum-music-and-art)
+- [🎮 Quantum game](#-quantum-game)
 - [📚Cool software sources](#-cool-software-sources)
 - [🔥Current hot research](#-if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
 - [🔍Other awesome resources](#-other-awesome-resources)
@@ -92,6 +93,10 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Quantum music playground**](https://github.com/JavaFXpert/quantum-music-playground) Playground for composing music using quantum states. Implemented as a Max for Live device in Ableton Live 11, and includes a MicroQiskit quantum simulator. Free, open source, Apache 2.0 licensed. Developed by James L. Weaver, [@JavaFXpert](https://twitter.com/JavaFXpert) on Twitter.
 - [**There’s A Burgeoning Quantum Art Scene**](https://medium.com/qiskit/theres-a-burgeoning-quantum-art-scene-76119cca7144) This article briefly conclude the possibilities of quantum art, by [Russell Huffman](https://medium.com/@jrussellhuffman), and there is lots of creative art work project can be found in his medium.
 - [**Quantum fractals**](https://qisk.it/3NayT1G) its explain some moethod to visualizing Quantum Computing using fractals, infinitely complex patterns that are self-similar across different scales, by Wiktor Mazin, Principal Data Scientist and IBM Quantum Ambassador.
+
+### 🎮 Quantum game
+- [Awesome Quantum Games](https://github.com/HuangJunye/Awesome-Quantum-Games) by Junyu Huang, contain a list of game that contain the component of quantum mechanics, help to learn quantum computing quickly.
+- [The Qubit Game: Click into Quantum](https://quantumai.google/education/thequbitgame) by google quantum ai, develop by google.
 
 ### 💻🔍📚 Cool software sources:
 - [**Quantum Open Source Foundation**](https://qosf.org/) organization that supporting the development and standardization of open tools for quantum computing. Where you can find learning resources, list of open sources quantum software, qosf mentorship information which any background with related experience can join and more.
