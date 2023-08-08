@@ -96,7 +96,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 
 ### 🎮 Quantum game
 - [Awesome Quantum Games](https://github.com/HuangJunye/Awesome-Quantum-Games) by Junyu Huang, contain a list of game that contain the component of quantum mechanics, help to learn quantum computing quickly.
-- [The Qubit Game: Click into Quantum](https://g.co/qubitgame) by google quantum ai, [game trailer](https://youtu.be/PPMYT1GvZGM), where players build a quantum computer one qubit at a time by solving challenges faced by quantum engineers, such as keeping qubits cool and blocking cosmic rays.
+- [List of Quantum Games](https://kiedos.art/quantum-games-list/) by kiedos, contain a list of games including categories.
 
 ### 💻🔍📚 Cool software sources:
 - [**Quantum Open Source Foundation**](https://qosf.org/) organization that supporting the development and standardization of open tools for quantum computing. Where you can find learning resources, list of open sources quantum software, qosf mentorship information which any background with related experience can join and more.
