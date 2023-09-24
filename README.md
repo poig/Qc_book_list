@@ -87,6 +87,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 
 ### 🔒 Quantum cryptography: 
 [my list of quantum-cryptography repo stars](https://github.com/stars/poig/lists/quantum-cryptography)
+- [**Practical introduction to quantum-safe cryptography**](https://developer.ibm.com/blogs/quantum-introducing-course-post-quantum-cryptography/?sf181771506=1) a course from IBM quantum, specifically designed for both expert and non-expert developers who want to learn about how quantum computing poses a risk to existing cryptography as new quantum algorithms are able break existing encryption schemes.
 - [**Awesome-post-quantum**](https://github.com/veorq/awesome-post-quantum) contain a curated list of resources about post-quantum cryptography.
 
 ### 🎶🎨 Quantum music and art:
