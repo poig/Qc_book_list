@@ -29,7 +29,7 @@
 
 ### 🆕💻🧮 new to cs and QC(all-in-one, pre-require math):
 - [**Qiskit Textbook**](https://qiskit.org/learn) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
-- [**Lecture notes**](https://cs.uwaterloo.ca/~watrous/) by John Watrous, contains most of the deep-level content of quantum computing.
+- [**Lecture notes**](https://johnwatrous.com/lecture-notes/) by John Watrous, contains most of the deep-level content of quantum computing.
 
 ### 🆕💻 new to quantum computing:
 - **Dancing with qubits** by Robert S. Sutor, introduction concept from basic math.
