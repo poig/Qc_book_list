@@ -28,12 +28,12 @@
 - [🔍Other awesome resources](#-other-awesome-resources)
 
 ### 🆕💻🧮 new to cs and QC(all-in-one, pre-require math):
-- [**Qiskit Textbook**](https://qiskit.org/learn) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
+- [**Qiskit Textbook**](https://learning.quantum.ibm.com/) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
 - [**Lecture notes**](https://johnwatrous.com/lecture-notes/) by John Watrous, contains most of the deep-level content of quantum computing.
 
 ### 🆕💻 new to quantum computing:
 - **Dancing with qubits** by Robert S. Sutor, introduction concept from basic math.
-- [**Introduction to Classical and Quantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) by Thomas Wong, is a super introduction book that explains basic Classical computing to Quantum computing.
+- [**Introduction to Classical and Quantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf) by Thomas Wong, is a super introduction book that explains basic Classical computing to Quantum computing.
 - **Quantum Computing: An Applied Approach** -Springer (2021) by Hidary, Jack D., talks about the foundation and tools you need for QC.
 - [**Quantum computing since Democritus** -Cambridge University Press (2013)](http://s3.amazonaws.com/arena-attachments/958521/7c581f75f258e9c36788c60cf45f3961.pdf?1491247031) by Aaronson, Scott, talks about popular science.
 - [Medium article - **Preliminary Thoughts on Fault-Tolerant Quantum Computing, Quantum Error Correction, and Logical Qubits**](https://jackkrupansky.medium.com/preliminary-thoughts-on-fault-tolerant-quantum-computing-quantum-error-correction-and-logical-1f9e3f122e71) by Jack Krupansky, answering a list of good questions and thoughts.
@@ -54,7 +54,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 
 ### 🤔 intermediate level:
 - [**2020 Qiskit Global Summer School on Quantum Computing and Quantum Hardware**](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020) by qiskit team, it introduce the key quantum algorithms and thier implementations using quantum circuits, as well as the quantum hardware is designed o run these algorihtms.
-- [**Quantum computer science** an introduction-Cambridge University Press (2007)](https://library.uoh.edu.iq/admin/ebooks/22831-quantum_computer_science.pdf) by N. David Mermin, you will learn what quantum computer doing, and why is it important.
+- **Quantum computer science** an introduction-Cambridge University Press (2007) by N. David Mermin, you will learn what quantum computer doing, and why is it important.
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter, a good introduction to QM.
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](https://archive.org/details/QuantumComputationAndQuantumInformation10thAnniversaryEdition/page/n533/mode/2up) by  Michael A. Nielsen, Isaac L. Chuang, the bible of quantum computing.
 - **Picturing Quantum Processes** Cambridge University Press by B Coecke, explain quantum processing with diagrammatic language.
@@ -62,7 +62,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 
 ### 🤯 advanced level:
 - [**Modern Quantum Mechanics (2nd Edition) 2nd Edition**](https://kgut.ac.ir/useruploads/1505647831850hcd.pdf) by J. J. Sakurai, Jim J. Napolitano, talks about the important concepts that use in QC.
-- [**Principles of Quantum Mechanics**](https://digbib.ubka.uni-karlsruhe.de/volltexte/wasbleibt/57355817/57355817.pdf) by Ramamurti Shankar, it goes deeper into QM, instead of introduction.
+- **Principles of Quantum Mechanics** by Ramamurti Shankar, it goes deeper into QM, instead of introduction.
 - [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter, and Aram Harrow. Idiosyncratic and incomplete lecture notes on some of mit pet topics.
 - **The Theory of Open Quantum Systems** by Heinz-Peter Breuer, Francesco Petruccione, it explains deeper into how quantum computing work. [lecture note](https://arxiv.org/abs/1902.00967) by Daniel A. Lidar
 - **Alice and Bob Meet Banach**: The Interface of Asymptotic Geometric Analysis and Quantum Information Theory (Mathematical Surveys and Monographs) by Guillaume Aubrun, Stanislaw J. Szarek, use math like asymptotic geometric analysis(AGA) to explain quantum information theory.
