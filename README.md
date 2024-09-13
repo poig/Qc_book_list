@@ -30,6 +30,7 @@
 ### 🆕💻🧮 new to cs and QC(all-in-one, pre-require math):
 - [**Qiskit Textbook**](https://learning.quantum.ibm.com/) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
 - [**Lecture notes**](https://johnwatrous.com/lecture-notes/) by John Watrous, contains most of the deep-level content of quantum computing.
+- [**PSI Quantum resources**](https://psi-online.perimeterinstitute.ca/) by Perimeter Scholars International, online learning modules enable motivated students and physics enthusiasts to study graduate-level theoretical physics independently at their own pace. 
 
 ### 🆕💻 new to quantum computing:
 - **Dancing with qubits** by Robert S. Sutor, introduction concept from basic math.
@@ -121,7 +122,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - Explore different encyclopedia:
   - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
   - [Quantum Protocol Zoo](https://wiki.veriqloud.fr/) 
-  - [Qubit Zoo](https://www.qubitzoo.com/) 
+  - [Qubit Zoo](https://www.qubitzoo.com/)
 - [Careers in Quantum](https://aggiebranczyk.com/careers-in-quantum/)
 - [Musty Thoughts](https://www.mustythoughts.com/resources.html)
 - [Quantum Grad](https://www.quantumgrad.com)
