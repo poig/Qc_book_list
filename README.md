@@ -70,7 +70,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde, is a more theoretical aspect.
 - [**The Theory of Quantum Information**](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) by John Watrous, is focused on math and proof of the theory.
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen, and Andreas Winter, it dives deeper into theory with math.
-- [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf) by Steven M. Girvin, it is experiment physics book of superconducting computing.
+- [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](https://boulderschool.yale.edu/sites/default/files/files/Girvin_CQED_LES_HOUCHES.pdf) by Steven M. Girvin, it is experiment physics book of superconducting computing.
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics.
 
 ### ⚛️ Quantum chemistry:
