@@ -11,13 +11,13 @@
 
 ## Contents
 
-- [🆕New to CS and QC](#-new-to-cs-and-qcall-in-one-pre-require-math)
 - [🆕New to QC](#-new-to-quantum-computing)
 - [💪Good Exercise](#-good-exercise)
 - [🎓Certificate](#-certificate)
 - [🧐General background to proceed intermediate and advanced level](#-general-background-to-proceed-intermediate-and-advanced-level-click-me-for-more-comprehensive-guide)
 - [🤔Intermediate level](#-intermediate-level)
 - [🤯Advanced level](#-advanced-level)
+- [⚛️💻 Quantum Hardware](#%EF%B8%8F-quantum-hardware)
 - [⚛️Quantum chemistry](#%EF%B8%8F-quantum-chemistry)
 - [🤖Quantum machine learning](#-quantum-machine-learning)
 - [🔒Quantum cryptography](#-quantum-cryptography)
@@ -27,12 +27,8 @@
 - [🔥Current hot research](#-if-you-want-to-see-what-research-is-currently-hot-you-can-take-a-look)
 - [🔍Other awesome resources](#-other-awesome-resources)
 
-### 🆕💻🧮 new to cs and QC(all-in-one, pre-require math):
-- [**Qiskit Textbook**](https://learning.quantum.ibm.com/) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
-- [**Lecture notes**](https://johnwatrous.com/lecture-notes/) by John Watrous, contains most of the deep-level content of quantum computing.
-- [**PSI Quantum resources**](https://psi-online.perimeterinstitute.ca/) by Perimeter Scholars International, online learning modules enable motivated students and physics enthusiasts to study graduate-level theoretical physics independently at their own pace. 
-
 ### 🆕💻 new to quantum computing:
+- [**Qiskit Textbook**](https://learning.quantum.ibm.com/) by qiskit contributor, keep on updating and having much friendly introduction content, in high school math.
 - **Dancing with qubits** by Robert S. Sutor, introduction concept from basic math.
 - [**Introduction to Classical and Quantum Computing**](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf) by Thomas Wong, is a super introduction book that explains basic Classical computing to Quantum computing.
 - **Quantum Computing: An Applied Approach** -Springer (2021) by Hidary, Jack D., talks about the foundation and tools you need for QC.
@@ -45,7 +41,7 @@
 - [QOSF Monthly Challenges](https://github.com/qosf/monthly-challenges) by qosf contributor, contains a lot of challenges and interesting topics in quantum computing.
 
 ### 🎓 Certificate:
-- [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.ibm.com/training/certification/C0010300), you can find all kinds of exam related resources and information from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2), this certificate proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK. This also open opportunity for you to join [qiskit-advocate](https://qiskit.org/advocates/).
+- [IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400), you can find all kinds of exam related resources and information from qiskit slack channel [#qiskit-cert-exam](https://join.slack.com/share/enQtNDM2MjQ5MzkzMTQ1OS1kZDljMTc3YzRhYWJkYjNkYTdmN2MxYTg4NGNhMTE1NzgxYmJkMjFiZGE0NDgxZWUxNDQ5NWM1OWNjMzhkYjU2), this certificate proven yourself able to demonstrates fundamental knowledge of quantum computing concepts and is able to express them using the qiskit open sources SDK. This also open opportunity for you to join [qiskit-advocate](https://qiskit.org/advocates/).
 
 ### 🧐 [General background to proceed intermediate and advanced level](http://www.mit.edu/~aram/advice/quantum.html) ([click me for more comprehensive guide](https://www.cs.umd.edu/~xwu/mini_lib.html)):
 Quantum computing (theory) is at the intersection of math, physics, and computer science. (Experiment also can involve electrical engineering.) Eventually, you will want to learn aspects of all of these fields, but when starting you can use any for an entry into the field. Within each field, the subjects you will want to know are:
@@ -60,9 +56,12 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](https://archive.org/details/QuantumComputationAndQuantumInformation10thAnniversaryEdition/page/n533/mode/2up) by  Michael A. Nielsen, Isaac L. Chuang, the bible of quantum computing.
 - **Picturing Quantum Processes** Cambridge University Press by B Coecke, explain quantum processing with diagrammatic language.
 - [**Lecture Notes on Quantum Algorithms**](https://www.cs.umd.edu/~amchilds/qa/) by Andrew Childs, explain deeper broader into quantum algorithms.
+- [**PSI Quantum resources**](https://psi-online.perimeterinstitute.ca/) by Perimeter Scholars International, online learning modules enable motivated students and physics enthusiasts to study graduate-level theoretical physics independently at their own pace. 
 
 ### 🤯 advanced level:
+- [**The Cellular Automaton Interpretation of Quantum Mechanics**](https://en.wikipedia.org/wiki/Cellular_Automaton_Interpretation) by Gerard ’t Hooft. A deep, mathematically-rich and controversial proposal that explores deterministic cellular-automaton models underlying quantum mechanics; excellent for readers interested in foundations, alternative formalisms, and research directions.
 - [**Modern Quantum Mechanics (2nd Edition) 2nd Edition**](https://kgut.ac.ir/useruploads/1505647831850hcd.pdf) by J. J. Sakurai, Jim J. Napolitano, talks about the important concepts that use in QC.
+- [**Lecture notes**](https://johnwatrous.com/lecture-notes/) by John Watrous, contains most of the deep-level content of quantum computing.
 - **Principles of Quantum Mechanics** by Ramamurti Shankar, it goes deeper into QM, instead of introduction.
 - [**The Mathematics of Entanglement**](https://arxiv.org/abs/1604.01790) by Brandao, Christandl, Walter, and Aram Harrow. Idiosyncratic and incomplete lecture notes on some of mit pet topics.
 - **The Theory of Open Quantum Systems** by Heinz-Peter Breuer, Francesco Petruccione, it explains deeper into how quantum computing work. [lecture note](https://arxiv.org/abs/1902.00967) by Daniel A. Lidar
@@ -70,8 +69,18 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Quantum Information Theory**](https://markwilde.com/qit-notes.pdf) by Mark Wilde, is a more theoretical aspect.
 - [**The Theory of Quantum Information**](https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf) by John Watrous, is focused on math and proof of the theory.
 - [**The Functional Analysis of Quantum Information Theory**](https://arxiv.org/pdf/1410.7188) - a collection of notes based on lectures by Gilles Pisier, K. R. Parthasarathy, Vern Paulsen, and Andreas Winter, it dives deeper into theory with math.
-- [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](https://boulderschool.yale.edu/sites/default/files/files/Girvin_CQED_LES_HOUCHES.pdf) by Steven M. Girvin, it is experiment physics book of superconducting computing.
 - [**Introduction to Elementary Particles**](https://mikefragugliacom.files.wordpress.com/2016/12/introduction-to-elementary-particles-gnv64.pdf) 2nd Edition by David Griffiths, it is for advanced undergraduates who are majoring in physics.
+
+### ⚛️💻 Quantum Hardware
+- [**Introductory Quantum Optics**](https://www.cambridge.org/highereducation/books/introductory-quantum-optics/FE693BC6459D0E6B48EFC5307665D054) by Christopher Gerry & Peter Knight, a clear application-oriented introduction to optical quantum phenomena for experimenters and engineers.
+- [**Quantum Optics**](https://www.cambridge.org/core/books/quantum-optics/08DC53888452CBC6CDC0FD8A1A1A4DD7) by Marlan Scully & M. Suhail Zubairy, an in-depth treatment of quantum light, squeezed/coherent states and atom-field interactions (highly relevant to photonic hardware).
+- [**Quantum Computing Architecture and Hardware for Engineers — Step by Step**](https://link.springer.com/content/pdf/10.1007/978-3-031-78219-0.pdf) by Hiu Yung Wong, an engineer-focused step-by-step text covering required math/physics and two main hardware platforms (silicon spin qubits and superconducting qubits) with worked examples and design discussion. There are [youtube playlist](https://youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C&si=v0HhhqDnWkG89xG6) for each chapter by the author.
+- [**Principles of Superconducting Quantum Computers**](https://www.wiley.com/en-us/Principles%2Bof%2BSuperconducting%2BQuantum%2BComputers-p-9781119750741) — focused on circuit QED, Josephson physics, device engineering and system tradeoffs for superconducting qubits.
+- [**Circuit_QED_Superconducting_Qubits_Coupled_to_Microwave_Photons**](https://boulderschool.yale.edu/sites/default/files/files/Girvin_CQED_LES_HOUCHES.pdf) by Steven M. Girvin, it is experiment physics book of superconducting computing.
+- [**Hardware for Quantum Computing**](https://link.springer.com/book/10.1007/978-3-031-66477-9) — a broad edited overview of physical qubit platforms (ions, NV centers, atoms, superconducting, photonic) with practical hardware perspectives.
+- [**Building Quantum Computers: A Practical Introduction**](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90) — practical, lab- and engineering-minded text covering device constraints, measurement/readout and system integration.
+- [**Photonic Quantum Technologies: Science and Applications**](https://www.wiley.com/en-us/Photonic%2BQuantum%2BTechnologies%3A%2BScience%2Band%2BApplications-p-9783527414123) by Mohamed Benyoucef, volume surveying photonic quantum devices, applications (communication, metrology, computing) and integration challenges.
+- [**Integrated Quantum Photonics**](https://www.amazon.com/Integrated-Quantum-Photonics-Graduate-Physics/dp/3031857275) — graduate-level treatment of chip-scale photonic circuits, waveguide platforms and scalability for quantum information tasks.  
 
 ### ⚛️ Quantum chemistry:
 - [**2022 Qiskit global summer school on quantum simulation**](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022) by group of experts and the qiskit team, it is a 2-week intensive summer school teach a brief introduction and overview of quantum simulation from basics to Quantum dynamics.
@@ -84,12 +93,13 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**pennylane guide**](https://pennylane.ai/qml/) good comprehensive guide to the quantum concept of quantum machine learning.
 - [**Quantum algorithms for data analysis**](https://quantumalgorithms.org/) by [contributors](https://github.com/Scinawa/quantumalgorithms.org/graphs/contributors), it contains a brief content introduction to the basic quantum algorithm to machine learning with a lot of math, and it accepts the suggestion and keeps on update.
 - [**QML guide**](https://github.com/Christophe-pere/Roadmap-to-QML) brief content of quantum machine learning resources.
-- [**Awesome Quantum Machine Learning**](https://github.com/llSourcell/quantum_machine_learning) contain a very clear explanation of most of the areas in quantum machine learning, from basic quantum computing and math concepts to other complex ideas.
 
 ### 🔒 Quantum cryptography: 
 [my list of quantum-cryptography repo stars](https://github.com/stars/poig/lists/quantum-cryptography)
 - [**Practical introduction to quantum-safe cryptography**](https://developer.ibm.com/blogs/quantum-introducing-course-post-quantum-cryptography/?sf181771506=1) a course from IBM quantum, specifically designed for both expert and non-expert developers who want to learn about how quantum computing poses a risk to existing cryptography as new quantum algorithms are able break existing encryption schemes.
 - [**Awesome-post-quantum**](https://github.com/veorq/awesome-post-quantum) contain a curated list of resources about post-quantum cryptography.
+- [**Quantum Networking**](https://www.wiley.com/en-us/Quantum%2BNetworking-p-9781848215375) by Rodney Van Meter, a systems-and-protocols guide to entanglement distribution, repeaters and practical network architectures.  
+- [**The Quantum Internet: The Second Quantum Revolution**](https://www.cambridge.org/core/books/quantum-internet/8C8C709D5A393D16765116587A4E8A2C) by Peter P. Rohde, an engineering-oriented look at quantum channels, encodings, repeaters and higher-level Internet protocols.
 
 ### 🎶🎨 Quantum music and art:
 - [**Quantum music playground**](https://github.com/JavaFXpert/quantum-music-playground) Playground for composing music using quantum states. Implemented as a Max for Live device in Ableton Live 11, and includes a MicroQiskit quantum simulator. Free, open source, Apache 2.0 licensed. Developed by James L. Weaver, [@JavaFXpert](https://twitter.com/JavaFXpert) on Twitter.
