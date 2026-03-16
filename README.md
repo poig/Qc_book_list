@@ -7,7 +7,7 @@
 2. *welcome open a new issue or a new pull request for books suggestion, please read [CONTRIBUTING.md](CONTRIBUTING.md#readme).*  
 3. *I only recommend those stand-out books, you can read with the order.*
 
-[**check my stars learning resources and library**](https://github.com/stars/poig/lists/intro-to-qc)
+[**check my stars learning resources and library**](https://github.com/stars/poig/lists/qc)
 
 ## Contents
 
@@ -55,6 +55,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Introduction to Quantum Mechanics**](https://ia904607.us.archive.org/3/items/introduction-to-solid-state-physics-by-charles-kittel-urdukutabkhanapk.blogspot.com/Uploaded%20-%2031-03-2021/Physics%20%286%29-21-3-2021/Introduction%20to%20Quantum%20Mechanics%20by%20David%20J.%20Griffiths%20And%20Darrell%20F.%20Schroeter%20_%28urdukutabkhanapk.blogspot.com%29.pdf) by David J. Griffiths, Darrell F. Schroeter, a good introduction to QM.
 - [**Quantum Computation and Quantum Information**_ 10th Anniversary Edition-Cambridge University Press (2011)](https://archive.org/details/QuantumComputationAndQuantumInformation10thAnniversaryEdition/page/n533/mode/2up) by  Michael A. Nielsen, Isaac L. Chuang, the bible of quantum computing.
 - **Picturing Quantum Processes** Cambridge University Press by B Coecke, explain quantum processing with diagrammatic language.
+- [**Picturing Quantum Software**: An Introduction to the ZX-Calculus and Quantum Compilation](https://github.com/zxcalc/book) by Aleks Kissinger and John van de Wetering, talk about the actual zx-calculus application.
 - [**Lecture Notes on Quantum Algorithms**](https://www.cs.umd.edu/~amchilds/qa/) by Andrew Childs, explain deeper broader into quantum algorithms.
 - [**PSI Quantum resources**](https://psi-online.perimeterinstitute.ca/) by Perimeter Scholars International, online learning modules enable motivated students and physics enthusiasts to study graduate-level theoretical physics independently at their own pace. 
 
