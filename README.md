@@ -125,7 +125,6 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [**Qiskit Seminar**](https://qiskit.org/events/seminar-series/)
 - [**Qutech seminar**](https://qutech.nl/newsroom/events/)
 - [**Quantum Computer System Lecture Series**](https://sites.nd.edu/quantum/)
-- [**Fact based insight**](https://factbasedinsight.com)
 - [**Quantum youtube channels**](https://github.com/mgg39/Quantum-youtube-channels)
 - [**Unitary Fund Event**](https://unitary.foundation/community/events/)
 
