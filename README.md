@@ -105,7 +105,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 ### 🎶🎨 Quantum music and art:
 - [**Quantum music playground**](https://github.com/JavaFXpert/quantum-music-playground) Playground for composing music using quantum states. Implemented as a Max for Live device in Ableton Live 11, and includes a MicroQiskit quantum simulator. Free, open source, Apache 2.0 licensed. Developed by James L. Weaver, [@JavaFXpert](https://twitter.com/JavaFXpert) on Twitter.
 - [**There’s A Burgeoning Quantum Art Scene**](https://medium.com/qiskit/theres-a-burgeoning-quantum-art-scene-76119cca7144) This article briefly conclude the possibilities of quantum art, by [Russell Huffman](https://medium.com/@jrussellhuffman), and there is lots of creative art work project can be found in his medium.
-- [**Quantum fractals**](https://qisk.it/3NayT1G) its explain some moethod to visualizing Quantum Computing using fractals, infinitely complex patterns that are self-similar across different scales, by Wiktor Mazin, Principal Data Scientist and IBM Quantum Ambassador.
+- [**Quantum fractals**](https://qisk.it/3NayT1G) its explain some method to visualizing Quantum Computing using fractals, infinitely complex patterns that are self-similar across different scales, by Wiktor Mazin, Principal Data Scientist and IBM Quantum Ambassador.
 
 ### 🎮 Quantum game
 - [Awesome Quantum Games](https://github.com/HuangJunye/Awesome-Quantum-Games) by Junyu Huang, contain a list of game that contain the component of quantum mechanics, help to learn quantum computing quickly.
