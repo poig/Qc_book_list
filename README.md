@@ -99,6 +99,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 [my list of quantum-cryptography repo stars](https://github.com/stars/poig/lists/quantum-cryptography)
 - [**Practical introduction to quantum-safe cryptography**](https://developer.ibm.com/blogs/quantum-introducing-course-post-quantum-cryptography/?sf181771506=1) a course from IBM quantum, specifically designed for both expert and non-expert developers who want to learn about how quantum computing poses a risk to existing cryptography as new quantum algorithms are able break existing encryption schemes.
 - [**Awesome-post-quantum**](https://github.com/veorq/awesome-post-quantum) contain a curated list of resources about post-quantum cryptography.
+- [**Protocol-independent algorithm or cryptography specifications**](https://github.com/ietf-wg-pquip/state-of-protocols-and-pqc) contain a list of the state of IETF protocols and PQC.
 - [**Quantum Networking**](https://www.wiley.com/en-us/Quantum%2BNetworking-p-9781848215375) by Rodney Van Meter, a systems-and-protocols guide to entanglement distribution, repeaters and practical network architectures.  
 - [**The Quantum Internet: The Second Quantum Revolution**](https://www.cambridge.org/core/books/quantum-internet/8C8C709D5A393D16765116587A4E8A2C) by Peter P. Rohde, an engineering-oriented look at quantum channels, encodings, repeaters and higher-level Internet protocols.
 
