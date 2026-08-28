@@ -113,7 +113,7 @@ Quantum computing (theory) is at the intersection of math, physics, and computer
 - [List of Quantum Games](https://kiedos.art/quantum-games-list/) by kiedos, contain a list of games including categories.
 - few cool simulation tool
   - [**grok-bloch**](https://javafxpert.github.io/grok-bloch/) A one-qubit gloch sphere visualization tool.
-  - [**Virtual Lab**](https://quantumflytrap.com/virtual-lab/) [old version](https://v2016.quantumgame.io/) by Quantum Flytrap is a no-code online laboratory with a real-time simulation of an optical table, where you also can view others publicly shared experiments setup. There are also puzzle game teach you different quantum concept.
+  - [**Virtual Lab**](https://lab.quantumflytrap.com) [old version](https://v2016.quantumgame.io/) by Quantum Flytrap is a no-code online laboratory with a real-time simulation of an optical table, where you also can view others publicly shared experiments setup. There are also puzzle game teach you different quantum concept.
   - [**Quirk**](https://algassert.com/quirk) A drag-and-drop quantum circuit simulator.
 
 ### 💻🔍📚 Cool software sources:
